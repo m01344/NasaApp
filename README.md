@@ -32,4 +32,4 @@ _Use the APIs:_
 1. Run the command from root directory of the repo: `helm install < deployment name > helm`
 2. Run the command: `minikube service flask-service` to access the APIs.
 
-**_Note: The images are pulled from a private repository. So deployment using helm will fail._**
+**_Note: The images are pulled from a private repository. So deployment using helm will fail_**
